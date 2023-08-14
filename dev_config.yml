@@ -1,3 +1,2 @@
-foo: Foo text new
-democonfigclient:
-  message: hello config server damla
+intValue: 1
+stringValue:test
