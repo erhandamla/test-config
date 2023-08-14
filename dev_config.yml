@@ -1,1 +1,3 @@
-connectionString: source=devDB,user=sa,pass=123
+foo: Foo text new
+democonfigclient:
+  message: hello config server damla
